@@ -9,4 +9,3 @@ I have been using these headphones for months at this point, with the driver con
 
 WARNING:
 Using this model with inappropriate drivers (or even with appropriate drivers, with too high volume) can cause hearing damage, only build and use these headphones at your own risk. I do not take any responsibility.
-This design is under the Cults - Private Use license, so only private use is allowed. You cannot use it commercially, and you cannot upload the 3D files to anywhere else.
