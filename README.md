@@ -4,7 +4,7 @@ YouTube video: https://youtu.be/390hyLryMGw
 
 You can find the detailed assembly instructions in the instructions.pdf
 
-Download the latest version of the headphones, it is probably the best option. (The earlier versions are mainly for documentation.) The different versions only have minimal changes, and are compatible with each other.
+Download the latest version of the headphones, it is probably the best option. (The earlier versions are kept mainly for documentation purposes.) The different versions only have minimal changes, and are compatible with each other.
 
 It's very important, that you only use headphone drivers when building this pair of headphones, and not some random micro speaker.
 I have been using these headphones for months at this point, with the driver configurations, described in the instructions, and i like them, but, because I don't have test equipment I cannot guarantee, that they are actually safe for your ears. If the sound is painful, or uncomfortable, then do not use them.
