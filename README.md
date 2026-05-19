@@ -3,6 +3,7 @@ These 3D printable headphones not only look cool, but they also sound good. Beca
 YouTube video: https://youtu.be/390hyLryMGw
 
 You can find the detailed assembly instructions in the instructions.pdf
+
 Download the latest version of the headphones, it is probably the best option. (The earlier versions are mainly for documentation.) The different versions only have minimal changes, and are compatible with each other.
 
 It's very important, that you only use headphone drivers when building this pair of headphones, and not some random micro speaker.
